@@ -3,7 +3,7 @@ INPUT = 'from_sqlserver_customer.sql'
 
 # Output file name
 # Existing file will be overwritten
-OUTPUT = 'sqlserver_customer.sql'
+OUTPUT = 'mysql_customer.sql'
 
 # encoding
 # enc = "ISO-8859-1"
