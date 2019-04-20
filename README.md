@@ -1,6 +1,9 @@
 # python_sqlserver2mysql
 **sqlconvert** 从sql server -> mysql
 
+sql server 转换到 mysql 有许多问题
+如数据类型，日期、时间及Text项里的换行符号等一系列头痛问题。
+
 sql server 的初级转换结果
 <pre><code>
 INSERT INTO `paros_customer_org` (`CustomerID`, `UserID`, `Remark`) VALUES (25104, 0, '陕西省侨联');
